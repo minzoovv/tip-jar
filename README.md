@@ -9,4 +9,4 @@ when you struggle somthing and it is finally resolved,
 
 ####  Go to [Tip Jar](https://github.com/minzoovv/tip-jar/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)!  
 
-####  Go to [Tip Jar Rule]()!
+####  Go to [Tip Jar Rule](https://github.com/minzoovv/tip-jar/blob/master/docs/rules.md)!
