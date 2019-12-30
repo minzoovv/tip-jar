@@ -1,7 +1,7 @@
 
 # Tip JAR :moneybag:
 
-when you struggle somthing and it is finally resolved,   
+when you struggle with somthing and it is finally resolved,   
 ## Add Tip to **Tip Jar**!  
 
 <img src="./assets/tip-jar.jpg" width=50% height=50%>
