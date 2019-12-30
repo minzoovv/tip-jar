@@ -1,2 +1,2 @@
-# tip-jar
-when you struggle and finally issue is resolved, add tip to **tip-jar**! 
+# Tip JAR
+when you struggle somthing and it is finally resolved, Add tip to **Tip Jar**! 
